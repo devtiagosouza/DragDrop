@@ -1,0 +1,9 @@
+C:\Fontes\draggableControls\bin\Release\draggableControls.exe
+C:\Fontes\draggableControls\bin\Release\draggableControls.pdb
+C:\Fontes\draggableControls\obj\Release\draggableControls.csprojAssemblyReference.cache
+C:\Fontes\draggableControls\obj\Release\draggableControls.Form1.resources
+C:\Fontes\draggableControls\obj\Release\draggableControls.Properties.Resources.resources
+C:\Fontes\draggableControls\obj\Release\draggableControls.Resources.DragControl.resources
+C:\Fontes\draggableControls\obj\Release\draggableControls.csproj.GenerateResource.cache
+C:\Fontes\draggableControls\obj\Release\draggableControls.exe
+C:\Fontes\draggableControls\obj\Release\draggableControls.pdb
